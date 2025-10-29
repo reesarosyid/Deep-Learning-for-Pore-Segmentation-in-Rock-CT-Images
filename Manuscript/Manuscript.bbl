@@ -1,0 +1,502 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{yi2022}{article}{}
+      \name{author}{6}{}{%
+        {{hash=22df6db1e9628fc4d81ef33d238ab086}{%
+           family={Yi},
+           familyi={Y\bibinitperiod},
+           given={Tianhao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=11a33b1aa9e89479e304318dff521b9c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Guang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=dc58cd6a24a023ce7177d8f199d47875}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2132ad37d607b020125fa7c4b52d8a51}{%
+           family={Zhuan},
+           familyi={Z\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod}}}%
+        {{hash=54dc87c7b7bd0f95c6af536ebb72291c}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Yonghua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=11c38b43495112b1fd4375ca596dc564}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jingyi},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{807773420d6646fbd63ff89df8934257}
+      \strng{fullhash}{2a57eb806d768fa058cadf90d0167ade}
+      \strng{bibnamehash}{2a57eb806d768fa058cadf90d0167ade}
+      \strng{authorbibnamehash}{2a57eb806d768fa058cadf90d0167ade}
+      \strng{authornamehash}{807773420d6646fbd63ff89df8934257}
+      \strng{authorfullhash}{2a57eb806d768fa058cadf90d0167ade}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1070-6631}
+      \field{journaltitle}{Physics of Fluids}
+      \field{number}{1}
+      \field{title}{Dynamics of a gas bubble penetrating through porous media}
+      \field{volume}{34}
+      \field{year}{2022}
+      \field{pages}{012103}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/5.0076298
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1063/5.0076298
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1063/5.0076298
+      \endverb
+    \endentry
+    \entry{wang2022}{article}{}
+      \name{author}{7}{}{%
+        {{hash=c92fb4d761d5c067a9eb42b2a2cf1521}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=11a33b1aa9e89479e304318dff521b9c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Guang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=33f1f8102ae8d032fb301ab80a09459d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=25d35f1e3db69ef117155be8b0774e3c}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=2132ad37d607b020125fa7c4b52d8a51}{%
+           family={Zhuan},
+           familyi={Z\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8c6d18e2d167e1a3dc88c0166bbc3471}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=11c38b43495112b1fd4375ca596dc564}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jingyi},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8b8a99401fc6204dbab377f6dcf21f4}
+      \strng{fullhash}{2fa001f479edfddc0f49b2c2a5991979}
+      \strng{bibnamehash}{f8b8a99401fc6204dbab377f6dcf21f4}
+      \strng{authorbibnamehash}{f8b8a99401fc6204dbab377f6dcf21f4}
+      \strng{authornamehash}{f8b8a99401fc6204dbab377f6dcf21f4}
+      \strng{authorfullhash}{2fa001f479edfddc0f49b2c2a5991979}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NPJ Microgravity}
+      \field{title}{A three-dimensional flow model of screen channel liquid acquisition devices for propellant management in microgravity}
+      \field{volume}{8}
+      \field{year}{2022}
+      \field{pages}{28}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41526-022-00216-5
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41526-022-00216-5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41526-022-00216-5
+      \endverb
+    \endentry
+    \entry{lee2022}{article}{}
+      \name{author}{4}{}{%
+        {{hash=98056d9ddecda0076a31a183e3e69326}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0c09a88ab6216af6bd7c67b5fd9c1521}{%
+           family={Karadimitriou},
+           familyi={K\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=26820ba61c019e7618e2f8887bcbdc3d}{%
+           family={Ruf},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7460da331650070d379b27c23a0cafed}{%
+           family={Steeb},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7dbf828f228eb887191b155927849cd}
+      \strng{fullhash}{0e0fb81c42000ddc26d61af179857704}
+      \strng{bibnamehash}{0e0fb81c42000ddc26d61af179857704}
+      \strng{authorbibnamehash}{0e0fb81c42000ddc26d61af179857704}
+      \strng{authornamehash}{d7dbf828f228eb887191b155927849cd}
+      \strng{authorfullhash}{0e0fb81c42000ddc26d61af179857704}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Solid Earth}
+      \field{number}{9}
+      \field{title}{Detecting micro fractures: a comprehensive comparison of conventional and machine-learning-based segmentation methods}
+      \field{volume}{13}
+      \field{year}{2022}
+      \field{pages}{1475\bibrangedash 1494}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.5194/se-13-1475-2022
+      \endverb
+      \verb{urlraw}
+      \verb https://se.copernicus.org/articles/13/1475/2022/
+      \endverb
+      \verb{url}
+      \verb https://se.copernicus.org/articles/13/1475/2022/
+      \endverb
+    \endentry
+    \entry{chen2024}{article}{}
+      \name{author}{4}{}{%
+        {{hash=60aeb23a507616b6ae2488ddaab41f0e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=34eb0d3545d5a6175d27a342936002b1}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=3702f1c146e64a6c91fc47b81ea59fc7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5ee5d3d5470ac29a2e7c8df70ed54725}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{836d37fe670483eab59c3a5f4cd5f44a}
+      \strng{fullhash}{19e8c4fdf549086c769e36c1e78f3111}
+      \strng{bibnamehash}{19e8c4fdf549086c769e36c1e78f3111}
+      \strng{authorbibnamehash}{19e8c4fdf549086c769e36c1e78f3111}
+      \strng{authornamehash}{836d37fe670483eab59c3a5f4cd5f44a}
+      \strng{authorfullhash}{19e8c4fdf549086c769e36c1e78f3111}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Petroleum Science and Engineering}
+      \field{title}{Insight into reservoir quality evaluation and sweet spots in tight reservoirs based on pore structure analysis}
+      \field{volume}{235}
+      \field{year}{2024}
+      \field{pages}{110969}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.petrol.2023.110969
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0264817223005524
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0264817223005524
+      \endverb
+    \endentry
+    \entry{xiao2023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=68f0988326aeeca2e5444dcaf314ca52}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=240f15f7d0b589c89d5552453f46785d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d5ff4bd5ca210dc62374b1352daac212}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9a75ee293f2555f40976345739087998}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{00373ba80e4260b7e99e465f9b72b7d1}
+      \strng{fullhash}{003d90596e6a065cca70bd18bd5c39ac}
+      \strng{bibnamehash}{003d90596e6a065cca70bd18bd5c39ac}
+      \strng{authorbibnamehash}{003d90596e6a065cca70bd18bd5c39ac}
+      \strng{authornamehash}{00373ba80e4260b7e99e465f9b72b7d1}
+      \strng{authorfullhash}{003d90596e6a065cca70bd18bd5c39ac}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Construction and Building Materials}
+      \field{title}{Pore structure characteristics, modulation and its effect on mechanical behaviour of materials: A comprehensive review}
+      \field{volume}{401}
+      \field{year}{2023}
+      \field{pages}{132146}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.conbuildmat.2023.132146
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0950061823021463
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0950061823021463
+      \endverb
+    \endentry
+    \entry{liu2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=47fa1cfa42f039e59f4e014c1941c712}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8dd86696c5f4cffef5a0dd2c8e864f45}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=66d548e0e670e107fc4a80dc0c3825b3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{83b31cbae08ff77735e7daaffff80d87}
+      \strng{fullhash}{83b31cbae08ff77735e7daaffff80d87}
+      \strng{bibnamehash}{83b31cbae08ff77735e7daaffff80d87}
+      \strng{authorbibnamehash}{83b31cbae08ff77735e7daaffff80d87}
+      \strng{authornamehash}{83b31cbae08ff77735e7daaffff80d87}
+      \strng{authorfullhash}{83b31cbae08ff77735e7daaffff80d87}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Concrete Structures and Materials}
+      \field{number}{1}
+      \field{title}{Influence of pore structure characteristics on the mechanical and durability behaviour of pervious concrete}
+      \field{volume}{14}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1186/s40069-020-00404-1
+      \endverb
+      \verb{urlraw}
+      \verb https://ijcsm.springeropen.com/articles/10.1186/s40069-020-00404-1
+      \endverb
+      \verb{url}
+      \verb https://ijcsm.springeropen.com/articles/10.1186/s40069-020-00404-1
+      \endverb
+    \endentry
+    \entry{hou2023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c4ff422cbb130f2cf7a2e253100f7dd3}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bbe869383a7d3458b82c516a21e4482c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=92260edf3b6211aefedc2e8e883915fb}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4986615fe9031edfa590ac244b5c4dec}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{ccc49cd317a88886d91eacfdaeb53346}
+      \strng{fullhash}{9814a96c52d3ab368e208b39a72bb41e}
+      \strng{bibnamehash}{9814a96c52d3ab368e208b39a72bb41e}
+      \strng{authorbibnamehash}{9814a96c52d3ab368e208b39a72bb41e}
+      \strng{authornamehash}{ccc49cd317a88886d91eacfdaeb53346}
+      \strng{authorfullhash}{9814a96c52d3ab368e208b39a72bb41e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Earth Science}
+      \field{title}{Evaluation of pore-throat structures of carbonate reservoirs in the Pre-Caspian Basin using integrated petrophysical methods}
+      \field{volume}{11}
+      \field{year}{2023}
+      \field{pages}{1164751}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/feart.2023.1164751
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/articles/10.3389/feart.2023.1164751/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/articles/10.3389/feart.2023.1164751/full
+      \endverb
+    \endentry
+    \entry{liu2022}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7bb074c37d04e2fb30a473aa12102ae1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=528b0708ec1bf9b1677b35261fac82bf}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4e31f6e2351bdd7652825d00350a02fd}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6026ccfc90df3a5fa9c8628348d98cc0}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6a03fe30ac9c92a49cd28bc17e504f9}
+      \strng{fullhash}{8da2ed68cd62bf5b5e7e2cecad7fba44}
+      \strng{bibnamehash}{8da2ed68cd62bf5b5e7e2cecad7fba44}
+      \strng{authorbibnamehash}{8da2ed68cd62bf5b5e7e2cecad7fba44}
+      \strng{authornamehash}{d6a03fe30ac9c92a49cd28bc17e504f9}
+      \strng{authorfullhash}{8da2ed68cd62bf5b5e7e2cecad7fba44}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Materials}
+      \field{number}{12}
+      \field{title}{Effect of pore structure on the impact behavior of concrete under dynamic loading}
+      \field{volume}{15}
+      \field{year}{2022}
+      \field{pages}{4194}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/ma15124194
+      \endverb
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC9228928/
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC9228928/
+      \endverb
+    \endentry
+    \entry{yang2024}{article}{}
+      \name{author}{6}{}{%
+        {{hash=11a33b1aa9e89479e304318dff521b9c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Guang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0ffff6c439a8f53ff7ba957ad15e6170}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Ran},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7c3b1d58e0542d06b2dc5a41a622f749}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Yusong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5f09da3e64a4de32b28f0f59ec9ffc7a}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Songyuan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=11c38b43495112b1fd4375ca596dc564}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jingyi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b07b0bbc3bf25b2b9aca5019725ee945}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{18371c794ffd892c9988676f573af2d7}
+      \strng{fullhash}{38cd090847c9065e3666a817e5da562a}
+      \strng{bibnamehash}{38cd090847c9065e3666a817e5da562a}
+      \strng{authorbibnamehash}{38cd090847c9065e3666a817e5da562a}
+      \strng{authornamehash}{18371c794ffd892c9988676f573af2d7}
+      \strng{authorfullhash}{38cd090847c9065e3666a817e5da562a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0017-9310}
+      \field{journaltitle}{International Journal of Heat and Mass Transfer}
+      \field{title}{Data-driven methods for flow and transport in porous media: A review}
+      \field{volume}{235}
+      \field{year}{2024}
+      \field{pages}{126149}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ijheatmasstransfer.2024.126149
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0017931024009797
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0017931024009797
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

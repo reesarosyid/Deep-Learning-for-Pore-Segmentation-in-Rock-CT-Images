@@ -1,0 +1,21 @@
+.ipynb_checkpoints/
+.venv/
+.vscode/
+Data/
+Data_Compared/
+Data_cluster/
+Data_clusterK4/
+Data_enhancement/
+Data_eval/
+Data_mask/
+Data_Elbow/
+Manuscript/
+Model/
+Data_split/
+Data_splitK4/
+Data_maskK4/
+~$Tabulasi hasil.xlsx
+Tabulasi hasil.xlsx
+Testing Results.xlsx
+outputk4.xlsx
+.~lock.Testing Results.xlsx#
